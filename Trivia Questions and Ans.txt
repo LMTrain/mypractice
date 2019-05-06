@@ -1,0 +1,65 @@
+“Who invented the telephone? (Bell)”, “Which nail grows fastest? (Middle)”, “What temperature does water boil at? (100C)”, “Who discovered penicillin? (Fleming)”, "What Spanish artist said he would eat his wife when she died? (Dali)", "Who wrote Julius Caesar, Macbeth and Hamlet? (Shakespeare)", "What did the crocodile swallow in Peter Pan? (Alarm clock)", "Which German city is famous for the perfume it produces? (Cologne)", "When did the First World War start? (1914)", "What did Joseph Priestley discover in 1774? (Oxygen)", "Where is the smallest bone in the body? (ear)", "Which is the only mammal that can’t jump? (Elephant)", "What color is a panda? (Black and White)", "Who cut Van Gogh’s ear? (He did)", "Who painted the Mona Lisa? (Da Vinci)", "How many dots are there on two dice? (42)", "What horoscope sign has a crab? (Cancer)", "When did the Second World War end? (1945)", "What’s the real name of Siddhartha Gautama? (Buddha)", "Where was Christopher Columbus born? (Genoa)", "When did the American Civil War end? (1865)", "Who said E=mc2? (Einstein)", "Which planet is nearest the sun? (Mercury)", "Where are the Dolomites? (Italy)", "What’s the capital of Kenya? (Nairobi?", "Which is the largest ocean? (Pacific)", "What’s the capital of Honduras? (Tegucigalpa)", "What’s the capital of Ethiopia? (Addis Ababa)", "How many squares are there on a chess board? (64)", "How many prongs are there on a fork? (4)", "Who starts first in chess? (White)", "How many events are there in the decathlon? (10)", "What do you use to take a cork out of a bottle? (a corkscrew)", "What money do they use in Japan? (Yen)", "What’s the Hungarian word for pepper? (Paprika)", "Name the two main actors in “The Sting”. (Paul Newman and Robert Redford)", "What year did Elvis Presley die? (1977)", "Which Italian leader was terribly afraid of the evil eye? (Mussolini)", "What country gave Florida to the USA in 1891? (Spain)", "Who gave his name to the month of July? (Julius Caesar)", "When was Elvis’ first ever concert? (1954)", "Who is the main actor in “Cocktail”? (Tom Cruise)"
+What did the Montgolfier brothers invent? (The balloon)
+What type of elephant has got the biggest ears? (African)
+Who invented the electric light bulb? (Thomas Edison)
+What’s the smallest type of tree in the world? (Bonsai)
+Who invented television? (John Logie Baird)
+What activity other than jumping are kangaroos good at? (Boxing)
+What’s the capital of Ecuador? (Quito)
+What colors make purple? (Red and Blue). 
+What’s the hardest rock? (Diamond)
+How much does a liter of water weigh? (1kg)
+When was President Kennedy killed? (1963)
+Where does the American president live? (The White House)
+What is the first letter on a typewriter? (Q)
+What was the nickname of President Duvalier of Haiti, who died in 1971? Papa Doc
+In 1816 which US state was admitted to the Union as the 20th state? Mississippi
+Who discovered the vaccination against smallpox in 1796? Edward Jenner
+Which is the oldest University in the USA? Harvard 
+What, along with heart disease and cancer, accounts for 64 percent of U.S. deaths? – Stroke.
+What nation produces two thirds of the world’s vanilla? – Madagascar.
+Who led the Million Man March on Washington? – Louis Farrakhan.
+What disease is the focus of oncology? – Cancer.
+What’s the most malleable metal? – Gold.
+Which planet spins the fastest? – Jupiter
+Which planet is closest to the sun? – Mercury.
+What powers the sun? – Fusion
+What’s removed from water in the process of desalination? – Salt.
+What species Amazonian electric variety packs a 650 volt wallop? – The eel’s.
+What 1947 invention by Bell Telephone Laboratories spawned pocket-sized radios? – The transistor.
+What Italian astronomer invented the thermometer in 1592? – Galileo.
+What’s the base unit of mass in the metric system? – The kilogram.
+What was the first organ successfully transplanted from a cadaver to a live person? – A kidney.
+What F-word is defined in physics as a “nuclear reaction in which nuclei combine to form more massive nuclei”? – Fusion.
+What was the first planet to be discovered using the telescope, in 1781? – Uranus.
+Which country gave the USA the ‘Statute of Liberty? – France.
+Where is the world’s largest supply of fresh water? – Brazil is the country estimated to have the largest supply of fresh water in the world, followed by Canada and Russia
+What number does “giga” stand for? – One billion.
+What digit did Arab mathematician al-Khwarizmi give to the West around 800 BC.? – Zero.
+What word describes a number system with a base of two? – Binary.
+What do mathematicians call a regular polygon with eight sides? – An octagon.
+What sticky sweetener was traditionally used as an antiseptic ointment for cuts and burns? – Honey.
+What bird was domesticated first? The first bird domesticated by man was the goose.
+Why a duck’s quack doesn’t echo? – No one knows.
+Who was the last president of the Soviet Union? – Mikhail Gorbachev.
+What political system was gradually dismantled in South Africa, starting in 1989? – Apartheid.
+Where is the Suez Canal? – Egypt
+What’s the Symbol of iron? – Fe
+Where did the pineapple plant originate? – In South America. It didn’t reach Hawaii until the early nineteenth century.
+What nutty legume accounts for one sixth of the world’s vegetable oil production? – The peanut.
+What country saw the cultivation of the first potato, in 200 A.D.? – South America.
+What tree gives us prunes? – The plum tree.
+A cow gives nearly 200,000 glasses of milk in her lifetime.
+What unit of electrical power is equal to one joule per second? – The Watt.
+How many U.S. states border the Gulf of Mexico? – Five.
+What is the name of the worlds highest water fall? – Angel falls in Venezuela South America
+What is the official language of Australia? – English is the Australian official language
+What is the smallest country in the world? – Vatican City Population, total population 1,000.
+What planet is closest in size to our moon? – Mercury.
+What method of underwater detection is short for “sound navigation and ranging”? – Sonar.
+What’s short for “binary digit”? – Bit.
+What century did mathematicians first use plus and minus signs? – The sixteenth.
+What’s the most frequently diagnosed cancer in men? – Prostate cancer.
+What do leukemia sufferers have too many of? – White blood cells, or leukocytes.
+What process involves heating an ore to obtain a metal? – Smelting.
+
