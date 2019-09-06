@@ -1,0 +1,66 @@
+/* .card {
+  background: #fff;
+  border-radius: 2px;
+  height: 178px;
+  margin: 1rem;
+  position: relative;
+  width: 323px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+} */
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+}
+.card > .img-container > img {
+  width: 100%
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 18px;
+}
+.button {
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+  border: none;
+}
+
+.container {
+  background-size:cover;
+}
+
+.jumbotron{
+  font-family: 'Bodoni MT Black';    
+  text-align: center;
+  color: whitesmoke;
+  background-size:cover; 
+  background-image: url("./j_background.jpg");
+  height: 180px;
+  margin-top: -50px;  
+    
+}
+.container-background {
+  background-size:cover; 
+  background-image: url("./j_background.jpg");
+  
+}
+.images {
+  border: none;
+  align-content: center;
+
+}
