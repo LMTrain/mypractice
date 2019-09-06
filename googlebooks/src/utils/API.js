@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const BASEURL = "https://www.googleapis.com/books/v1/volumes?q=";
-const APIKEY = "&maxResults=40&orderBy=newest&key=AIzaSyD5c7Uuj4hd7FPRO9A9o4zhWaCTsffKrNc";
+const APIKEY = "&maxResults=40&orderBy=newest&key=";
 // Export an object containing methods we'll use for accessing the Google Book API
 
 export default { 
