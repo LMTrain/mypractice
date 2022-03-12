@@ -13,9 +13,9 @@ class Search extends Component {
 
   // When the component mounts, get a list of all available base  and update this.state.
   
-  // componentDidMount() {
-  //   this.searchForBooks("Destruction")    
-  // }
+  componentDidMount() {
+    this.searchForBooks("Destruction")    
+  }
 
   searchForBooks = query => {
     API.search(query)
